@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace StijnVanouplines\BladeCountryFlags;
+namespace Sandersm90\BladeCountryFlags;
 
 use BladeUI\Icons\Factory;
 use Illuminate\Contracts\Container\Container;
