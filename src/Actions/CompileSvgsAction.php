@@ -1,6 +1,6 @@
 <?php
 
-namespace StijnVanouplines\BladeCountryFlags\Actions;
+namespace Sandersm90\BladeCountryFlags\Actions;
 
 use DirectoryIterator;
 
