@@ -1,12 +1,12 @@
 {
-    "name": "stijnvanouplines/blade-country-flags",
+    "name": "sandersm90/laravel-country-flags",
     "description": "A package to easily make use of country flags in your Laravel Blade views.",
     "keywords": [
         "Blade",
         "Country flags",
         "Laravel"
     ],
-    "homepage": "https://github.com/stijnvanouplines/blade-country-flags",
+    "homepage": "https://github.com/Sandersm90/laravel-country-flags",
     "license": "MIT",
     "require": {
         "php": "^7.4|^8.0",
@@ -20,18 +20,18 @@
     },
     "autoload": {
         "psr-4": {
-            "StijnVanouplines\\BladeCountryFlags\\": "src/"
+            "Sandersm90\\BladeCountryFlags\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "StijnVanouplines\\BladeCountryFlags\\Tests\\": "tests/"
+            "Sandersm90\\BladeCountryFlags\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "StijnVanouplines\\BladeCountryFlags\\BladeCountryFlagsServiceProvider"
+                "Sandersm90\\BladeCountryFlags\\BladeCountryFlagsServiceProvider"
             ]
         }
     },
